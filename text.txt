@@ -5,3 +5,5 @@ This is adding another line to the text file to see the changes.
 This is another line to the text.txt file.
 
 Adding 4th line for Branch1.
+
+This is a test to see if we can merge changes from Branch2 to Master without it freaking out.
